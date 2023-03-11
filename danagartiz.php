@@ -27,13 +27,13 @@ Nomor DANA: \e[0m \r\n";
 $no = trim(fgets(STDIN, 1024));
 echo "\n\e[0;33m]
 Jumlah Yang Anda Mau: \e[0m \r\n";
-Rp$ju = trim(fgets(STDIN, 1024));
+$ju = trim(fgets(STDIN, 1024));
 echo "\n\e[0;32m]
-$no , Okey Tq Udh Ngisi Survey Ini , $ju\e[0m \r\n";
+Kami Akan Mengirim Rp$ju Ke Nomor DANA $no\e[0m \r\n";
 echo "\n\e[0;34m]
-Lu Gabut y?:v\e[0m \r\n";
+Mohon Ditunggu Maks 24 Jam Gan\e[0m \r\n";
 echo "\n\e[0;34m]
-Eh, Lu Masih Gabut?:v\e[0m \r\n";
+Kami Kirim Jika Anda Beruntung :v\e[0m \r\n";
 echo "\n\e[0;34m]
-Btw Follow GitHub Gw Yak\e[0m \r\n";
+Awokawokawok:v\e[0m \r\n";
 ?>
