@@ -30,4 +30,5 @@ Sebelum Menjalankan Script Diatas, Anda Perlu Mengetikkan Kode Ini Di Termux:
 $ termux-change-repo
 
 Lalu Pilih Yang Main Repository,Game Repository,Science Repository. Lalu enter
+
 Lalu Pilih Yang Mirror By Tsinghua. Lalu Enter
