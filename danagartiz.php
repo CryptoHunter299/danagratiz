@@ -20,20 +20,20 @@ echo "\n\e[0;31m]
 +============================================+
                               Version 1.1.1\e[0m \r\n";
 echo "\n\e[0;36m]
---==::{Dana Gratis}::==--";                              
+--==::{Thai Gratis}::==--";                              
 echo "\n\e[0;34m]Contoh : 0234xxxxxx";
 echo "\n\e[0;33m]
-Nomor DANA: \e[0m \r\n";
+Masukkan Thai ID Anda: \e[0m \r\n";
 $no = trim(fgets(STDIN, 1024));
 echo "\n\e[0;33m]
-Jumlah Dana Yang Anda Mau: \e[0m \r\n";
+Jumlah Thai Yang Anda Mau: \e[0m \r\n";
 $ju = trim(fgets(STDIN, 1024));
 echo "\n\e[0;32m]
-$no , Ok, Otw Kirim DANA Sebesar , $ju\e[0m \r\n";
+$no , Ok, Otw Kirim Thai nya Sebesar , $ju\e[0m \r\n";
 echo "\n\e[0;34m]
-Harap Wait 24 Jam Ya Gan\e[0m \r\n";
+Harap Wait 200 Abad Ya Gan\e[0m \r\n";
 echo "\n\e[0;34m]
 Kalo Gak kekirim, anda kurang beruntung\e[0m \r\n";
 echo "\n\e[0;34m]
-Woakwokawokawok:v\e[0m \r\n";
+Btw Follow GitHub Gw Yak\e[0m \r\n";
 ?>
