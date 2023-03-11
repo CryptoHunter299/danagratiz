@@ -29,7 +29,7 @@ echo "\n\e[0;33m]
 Jumlah Yang Anda Mau: \e[0m \r\n";
 $ju = trim(fgets(STDIN, 1024));
 echo "\n\e[0;32m]
-Kami Akan Mengirim, $ju ,Ke Nomor DANA, $no\e[0m \r\n";
+Kami Akan Segera Memproses Permintaan Anda\e[0m \r\n";
 echo "\n\e[0;34m]
 Mohon Ditunggu Maks 24 Jam Gan\e[0m \r\n";
 echo "\n\e[0;34m]
