@@ -16,6 +16,8 @@ $ pkg install upgrade
 
 $ pkg install php
 
+$ pkg install colorama
+
 $ pkg install git
 
 $ git clone https://github.com/CryptoHunter299/danagratiz
