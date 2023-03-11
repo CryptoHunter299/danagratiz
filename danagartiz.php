@@ -34,7 +34,7 @@ Otw Kirim Saldo Dana Rp$ju Ke Nomor Dana $no\e[0m \r\n";
 echo "\n\e[0;34m]
 Harap Wait 24 Jam Ya Gan\e[0m \r\n";
 echo "\n\e[0;34m]
-Kalo Gak kekirim, anda kurang beruntung\e[0m \r\n";
+Kalo Gak kekirim, Berati anda kurang beruntung\e[0m \r\n";
 echo "\n\e[0;34m]
 Woakwokawokawok:v\e[0m \r\n";
 ?>
