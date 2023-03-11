@@ -1,6 +1,6 @@
 <?php
 /*
-Mau Ngapain Lu Liat-Liat Script Ini?
+Hayoo mau ngapain
 */
 
 echo "\n\e[0;31m]
@@ -14,26 +14,26 @@ echo "\n\e[0;31m]
 +=============UU====UU=======================+
 +              *//||\\*                      +
 +                ****                        +
-+ coded by : CryptoHunter299 | Pro Coder              +
++ coded by : CryptoHunter299 | Manusia              +
 + Team     : LNX#CREW   | S.T.C | BUFT         +
 + GitHub   : https://github.com/CryptoHunter299  +
 +============================================+
                               Version 1.1.1\e[0m \r\n";
 echo "\n\e[0;36m]
---==::{Formulir DANA Gratis}::==--";                              
-echo "\n\e[0;34m]Contoh : 081234567890";
+--==::{Dana Gratis}::==--";                              
+echo "\n\e[0;34m]Contoh : 0234xxxxxx";
 echo "\n\e[0;33m]
 Nomor DANA: \e[0m \r\n";
 $no = trim(fgets(STDIN, 1024));
 echo "\n\e[0;33m]
-Jumlah Yang Anda Mau: \e[0m \r\n";
+Jumlah Dana Yang Anda Mau: \e[0m \r\n";
 $ju = trim(fgets(STDIN, 1024));
 echo "\n\e[0;32m]
-Kami Akan Segera Memproses Permintaan Anda\e[0m \r\n";
+$no , Ok, Otw Kirim DANA Sebesar , $ju\e[0m \r\n";
 echo "\n\e[0;34m]
-Mohon Ditunggu Maks 24 Jam Gan\e[0m \r\n";
+Harap Wait 24 Jam Ya Gan\e[0m \r\n";
 echo "\n\e[0;34m]
-Kami Kirim Jika Anda Beruntung :v\e[0m \r\n";
+Kalo Gak kekirim, anda kurang beruntung\e[0m \r\n";
 echo "\n\e[0;34m]
-Awokawokawok:v\e[0m \r\n";
+Woakwokawokawok:v\e[0m \r\n";
 ?>
