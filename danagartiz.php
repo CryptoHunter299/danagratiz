@@ -25,8 +25,9 @@ echo "\n\e[0;34m]Contoh : 0234xxxxxx";
 echo "\n\e[0;33m]
 Nomor Dana: \e[0m \r\n";
 $no = trim(fgets(STDIN, 1024));
+echo "\n\e[0;34m]Contoh : Rp50.000";
 echo "\n\e[0;33m]
-Jumlah Dana Yang Anda Mau: \e[0m \r\n";
+Jumlah Dana Yang Anda Mau: \e[0m \r\nRp";
 $ju = trim(fgets(STDIN, 1024));
 echo "\n\e[0;32m]
 Otw Kirim Saldo Dana $ju Ke Nomor Dana $no\e[0m \r\n";
